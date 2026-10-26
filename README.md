@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AQUA Self-Pruning Neural Network
 
 ## Overview
@@ -6,7 +7,7 @@ This project implements a small neural-network training and pruning system using
 
 ## Features
 
-- Custom Tensor engine with reverse-mode autodiff.
+- Custom Tensor engine with reverse-mode  autodiff.
 - Arithmetic operations, matrix multiplication, reductions, activation functions, and softmax cross-entropy.
 - MLP classifier trained with a custom Adam optimizer.
 - Magnitude pruning and gradient-based saliency pruning.
@@ -93,3 +94,7 @@ The checked-in CSV contains the measured results. Use the generated plot and CSV
 - `tests/` — automated tests.
 - `scripts/` — validation and benchmark scripts.
 - `results/` — experiment CSV and plot.
+=======
+# aqua-self-pruning
+AQUA self-pruning neural network with custom autodiff, saliency pruning, and multi-seed experiments.
+>>>>>>> origin/main
